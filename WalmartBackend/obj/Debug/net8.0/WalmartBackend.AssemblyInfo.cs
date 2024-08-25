@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WalmartBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2aac7419577a93c50e98d4526580a0eb6c0130bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("WalmartBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WalmartBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
